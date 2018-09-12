@@ -1,0 +1,30 @@
+{
+  "name": "powerkernel/yii-billing",
+  "description": "Yii Billing using Paypal - CreditCard and Future Payment",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii",
+    "extension",
+    "behavior",
+    "billing"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.0"   
+  },
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiibilling\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sagar Patel",
+      "email": "sagarpatel8153@gmail.com"
+    },
+    {
+      "name": "Harry Tang",
+      "email": "harry@powerkernel.com"
+    }
+  ]
+}
